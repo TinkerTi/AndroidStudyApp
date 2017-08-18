@@ -80,4 +80,8 @@ public class TCPClientActivity extends Activity {
              e.printStackTrace();
         }
     }
+
+    private void test(){
+
+    }
 }
